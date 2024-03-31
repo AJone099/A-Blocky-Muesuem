@@ -1,0 +1,11 @@
+Model Information:
+* title:	Preset Airplane 1 - Stormworks
+* source:	https://sketchfab.com/3d-models/preset-airplane-1-stormworks-eb6f689172114a77842dfc831fb8e147
+* author:	Thales (https://sketchfab.com/ThalesMML)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Preset Airplane 1 - Stormworks" (https://sketchfab.com/3d-models/preset-airplane-1-stormworks-eb6f689172114a77842dfc831fb8e147) by Thales (https://sketchfab.com/ThalesMML) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
